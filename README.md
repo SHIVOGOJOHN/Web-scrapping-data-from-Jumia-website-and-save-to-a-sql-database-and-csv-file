@@ -52,7 +52,12 @@
   
 ![image](https://github.com/user-attachments/assets/36c118df-8a4f-47f6-909d-3b1baf58f691)
 
-## 📌 Summary 
+## 💡 Summary 
 - The script fetches HTML content from a Jumia webpage, parses it to extract laptop details, saves the details to a MySQL database and a CSV file, and prints the details to the console.
+
+📌 **Follow the links to get the Python code, HTML code for the page being scraped, and CSV File.**
+- [CSV Data](https://github.com/SHIVOGOJOHN/Web-scrapping-data-from-Jumia-website-and-save-to-a-sql-database-and-csv-file/blob/main/refurbLaptops.csv)
+- [Python Code](https://github.com/SHIVOGOJOHN/Web-scrapping-data-from-Jumia-website-and-save-to-a-sql-database-and-csv-file/blob/main/jumia.py)
+- [HTML Code](https://github.com/SHIVOGOJOHN/Web-scrapping-data-from-Jumia-website-and-save-to-a-sql-database-and-csv-file/blob/main/refurbLaptops.html)
 
 
