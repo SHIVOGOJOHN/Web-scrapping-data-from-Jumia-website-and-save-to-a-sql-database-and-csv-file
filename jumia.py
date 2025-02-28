@@ -21,11 +21,11 @@ laptops=soup.find_all("article", class_='prd _fb col c-prd')
 connection=mysql.connector.connect(
     charset="utf8mb4",
     connection_timeout=10,
-    database="defaultdb",
+    database="xxxxxx",
     host="mysql-f3601b9-jonesjorney-bd4e.f.aivencloud.com",
-    password="AVNS_ERXe8j5gIX5yis97hnw",
+    password="xxxxxx",
     port=21038,
-    user="avnadmin"
+    user="xxxxx"
 )
 
 cursor=connection.cursor()
